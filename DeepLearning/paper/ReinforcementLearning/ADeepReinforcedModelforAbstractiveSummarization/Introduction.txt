@@ -1,0 +1,8 @@
+A Deep Reinforced Model for Abstractive Summarization
+
+用 Intra Attention+Supervisd/Reinforcement 混合学习，在 CNN/Daily Mail 数据集的生成式文摘上取得了较已有最好成绩 5.7 个 ROUGE 分的提升。工作来自 Metamind Socher 团队。
+
+官方博客解读：
+https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization
+
+论文链接：https://arxiv.org/abs/1705.04304

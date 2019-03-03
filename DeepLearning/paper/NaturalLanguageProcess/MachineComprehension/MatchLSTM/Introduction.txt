@@ -1,0 +1,7 @@
+MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER
+
+作者使用其针对 neural inference 任务提出的 match-lstm 模型做了机器阅读理解（SQUAD）,其融合 match-lstm 和 pointer-network 的框架在后续多篇工作中出现，包括 squad leaderboard 上目前的第一名 r-net。match-lstm 在标准的 word-by-word attention 之后，将生成的 weighted question representation 和 encoder 读入的当前 passage vector 一起作为输入送进 lstm，计算 question related passage representation。这种结构在其他自然语言生成任务上也值得借鉴。
+
+论文链接：https://arxiv.org/pdf/1608.07905.pdf
+
+推荐人：孙静远，中国科学院（PaperWeekly arXiv组志愿者）

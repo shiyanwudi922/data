@@ -1,0 +1,9 @@
+1、(Kim, 2014): one convolutional layer (using multiple widths and filters) followed by a max pooling layer over time. The final classifier uses one fully connected layer with drop-out. Results are reported on six data sets, in particular Stanford Sentiment Treebank (SST).
+2、(Kalchbrenner et al., 2014)：five convolutional layers. An important difference is also the introduction of multiple temporal k-max pooling layers. This allows to detect the k most important features in a sentence, independent of their specific position, preserving their relative order. The value of k depends on the length of the sentence and the position of this layer in the network.
+3、(Dos Santos and Gatti, 2014): all the character embeddings of one word are combined by a max operation and they are then jointly used with the word embedding information in a shallow architecture.
+4、(Zhang et al., 2015)：the first to perform sentiment analysis entirely at the character level. Their systems use up to six convolutional layers, followed by three fully connected classification layers. Convolutional kernels of size 3 and 7 are used, as well as simple max-pooling layers. Another interesting aspect of this paper is the introduction of several large-scale data sets for text classification. 
+5、(Yang et al., 2016)：proposed a based hierarchical attention network for document classification that perform an attention first on the sentences in the document, and on the words in the sentence. Their architecture performs very well on datasets whose samples contain multiple sentences.
+6、(Xiao and Cho, 2016)：the combination of recurrent and convolutional networks in one architecture has been investigated, with the goal to “get the best of both worlds”。A convolutional network with up to five layers is used to learn high-level features which serve as input for an LSTM.
+
+finish
+

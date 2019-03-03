@@ -1,0 +1,21 @@
+﻿1、基础算法部分
+（1）模式识别与机器学习
+2、自然语言处理部分
+（1）nlp基础实战教材（晚上）
+（2）maxent、crf、pgm、kg、nmt、qa
+3、强化学习
+（1）introduction（上午）
+4、工具：tensorflow （闲暇）
+5、看ctr相关的论文
+学习tensorflow和看ctr论文的过程中要开始复现，在公司集群上运行
+6、新方向的扩展：
+recommendation survey、dssm、auto encoder、gan
+
+
+一、FOBOS, RDA, FTRL
+训练、测试、线上
+MXNET
+二、ctr论文
+论文讲解和实现的博客
+tensorflow
+三、强化学习、GAN

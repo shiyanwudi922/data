@@ -1,0 +1,8 @@
+Mnemonic Reader for Machine Comprehension
+
+本文旨在解决目前做阅读理解任务的端到端神经网络模型面临的问题：1. 无法有效捕捉原文当中存在的长距离依赖；2. 使用对问题不敏感的 pointer 来预测答案范围。因此本文提出 Mnemonic Reader，在两个方面进行了改进：1. 引入了一个自对齐层来进一步捕捉原文当中的长距离依赖；2. 使用一个多轮迭代的对问题敏感的 pointing 机制来预测答案范围。我们的 ensemble 模型在 SQuAD 数据集上取得了 73.67 的 ExactMatch 和 81.694 的 F1，目前排名第三。
+
+SQuAD Leaderboard：
+https://rajpurkar.github.io/SQuAD-explorer/
+
+论文链接：https://arxiv.org/abs/1705.02798

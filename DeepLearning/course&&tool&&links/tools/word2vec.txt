@@ -1,0 +1,44 @@
+1、word2vec
+（1）、GOOGLE WORD2VEC TUTORIAL (PART 1)：
+https://nofreehunch.wordpress.com/2015/08/30/google-word2vec-tutorial-part-1/
+（2）、on word embeddings:
+http://sebastianruder.com/word-embeddings-1/
+（3）、Bag of Words Meets Bags of Popcorn
+https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors
+（4）、Using Neural Networks for Modelling and Representing Natural Languages：
+http://www.coling-2014.org/COLING%202014%20Tutorial-fix%20-%20Tomas%20Mikolov.pdf
+（5）、autoencoder：
+http://ufldl.stanford.edu/tutorial/unsupervised/Autoencoders/
+（6）、word2vec 中的数学原理详解：(主要参考文献)
+http://www.cnblogs.com/peghoty/p/3857839.html
+（7）、再谈word2vec：
+http://blog.csdn.net/zhaoxinfan/article/details/27352659
+（8）、Deep Learning实战之word2vec：
+http://techblog.youdao.com/?p=915#LinkTarget_699
+（9）、word2vec傻瓜剖析：
+http://xiaoquanzi.net/?p=156
+
+2、continuous bag of words
+（1）、CONTINUOUS BAG OF WORDS (CBOW)：
+https://iksinc.wordpress.com/tag/continuous-bag-of-words-cbow/
+（2）、word2vec tutorial part II: the continuous bag-of-words model:
+http://mccormickml.com/assets/word2vec/Alex_Minnaar_Word2Vec_Tutorial_Part_II_The_Continuous_Bag-of-Words_Model.pdf
+
+3、skip-gram
+（1）Word2Vec Tutorial - The Skip-Gram Model：
+http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+（2）、A Closer Look at Skip-gram Modelling：
+http://homepages.inf.ed.ac.uk/ballison/pdf/lrec_skipgrams.pdf
+（3）、SKIP GRAM TUTORIAL — TUTR.INFO 视频
+http://tutr.info/?head=Skip+gram+tutorial&item=488479
+（4）、word2vec tutorial part I: the skip-gram model:
+http://mccormickml.com/assets/word2vec/Alex_Minnaar_Word2Vec_Tutorial_Part_I_The_Skip-Gram_Model.pdf
+
+4、toolkit
+(1)、Gensim Word2vec简介：
+http://ju.outofmemory.cn/entry/80023
+
+
+
+
+http://blog.csdn.net/xiaoquantouer/article/details/53583980

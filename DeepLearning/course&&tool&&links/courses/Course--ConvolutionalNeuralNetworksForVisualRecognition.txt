@@ -1,0 +1,2 @@
+http://cs231n.github.io/optimization-1/
+http://cs231n.github.io/optimization-2/

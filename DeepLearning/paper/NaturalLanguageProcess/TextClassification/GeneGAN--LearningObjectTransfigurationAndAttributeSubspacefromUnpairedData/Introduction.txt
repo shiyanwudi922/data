@@ -1,0 +1,7 @@
+GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data
+
+本文的工作属于图像到图像间的翻译。类似于 DiscoGAN、CycleGAN 和 DualGAN，作者通过对偶学习，加上弱监督信息（weak 0/1 label），成功实现图像属性的迁移。G 采用 autoencoder 结构，encoder 将图像编码成图像主体信息（如：图像背景和人脸 ID 等）和属性信息（如：微笑、戴眼镜、发型等），decoder 则类似于 CGAN，将图像主体信息和属性信息翻译成图像。通过修改输入 decoder 的属性信息，实现属性的迁移。这种迁移成功的关键在于对偶学习机制（L1 重构误差），以及平行四边形 loss 和 nulling loss。值得一提的是，跟 CycleGAN 等相比，GeneGAN 只需要 generator 和 discriminator 各一个。文章在 CelebA 和 Multi PIE 数据集上进行实验，得到了不错的人脸属性迁移效果。 亮点推荐：推荐学习文章对弱监督信息的处理技巧。
+
+代码地址：https://github.com/Prinsphield/GeneGAN
+
+论文链接：https://arxiv.org/abs/1705.04932

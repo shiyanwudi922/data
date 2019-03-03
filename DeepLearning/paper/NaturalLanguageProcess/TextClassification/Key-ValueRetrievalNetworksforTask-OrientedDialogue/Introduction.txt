@@ -1,0 +1,5 @@
+Key-Value Retrieval Networks for Task-Oriented Dialogue
+
+本文的具体研究场景是车载智能助理，作者提出了一种基于知识库的端到端解决方案，车的 response 信息检索自形如 key-value 知识库中。文章会在后面开放出一个数据集出来供大家研究。本文工作来自斯坦福 Christopher D. Manning 组。
+
+论文链接：https://arxiv.org/pdf/1705.05414.pdf

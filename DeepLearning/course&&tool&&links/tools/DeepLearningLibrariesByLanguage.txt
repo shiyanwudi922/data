@@ -1,0 +1,4 @@
+http://www.teglor.com/b/deep-learning-libraries-language-cm569/
+
+tensorflow
+官网：https://www.tensorflow.org/versions/r0.8/get_started/index.html

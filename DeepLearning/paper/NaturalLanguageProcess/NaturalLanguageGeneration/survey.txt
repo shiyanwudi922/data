@@ -1,0 +1,2 @@
+Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation
+https://arxiv.org/abs/1703.09902v1
