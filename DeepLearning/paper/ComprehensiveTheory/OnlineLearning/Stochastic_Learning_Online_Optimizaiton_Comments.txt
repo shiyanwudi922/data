@@ -1,0 +1,14 @@
+Stochastic Learning和Online Optimizaiton的异同点：
+相同点：
+在每轮迭代中，都是只是用一个样本进行更新。
+在FTRL论文(Ad Click Prediction: a View from the Trenches)的注释中说：OGD is essentially the same as stochastic gradient descent;the name online emphasizes we are not solving a batch problem,but rather predicting on a sequence of examples that need not be IID.
+
+不同点：
+Stochastic Learning
+1、更新方向上：在每一轮迭代中，stochastic learning的更新方向不要求必须和梯度方向相同，而是可以取自一个随机变量，但是要求表示更新方向的该随机变量的期望必须和梯度方向相同，或者和损失函数的次梯度方向相同；
+2、样本随机性：在每一轮迭代中，可以在样本集中随机地选择样本进行更新；
+3、性能用Convergence Rate来衡量
+
+Online Optimization
+1、样本随机性：在每一轮迭代中，需要选择“最近”的样本进行更新，所以不具有样本选择上的随机性
+2、性能用regret boudn来衡量
