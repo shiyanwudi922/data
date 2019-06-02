@@ -9,3 +9,9 @@
 1、论文
 
 时间安排上，按照章节或论文交替
+
+知识点：
+1、gan收敛性证明
+2、esmm问题理解
+3、l1 norm在优化过程中的求解方法
+4、online leaning：RDA、FTRL
