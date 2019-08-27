@@ -1,0 +1,13 @@
+反卷积：
+反卷积基本框架介绍（基本认识）：https://towardsdatascience.com/up-sampling-with-transposed-convolution-9ae4f2df52d0 看完
+反卷积细节理解和计算（详细介绍，作者相关的博客都可以阅读）：transposed-convolutions-explained-with-ms-excel
+反卷积在tf中的计算：https://zhuanlan.zhihu.com/p/31988761 
+反卷积的checkerboard效应理解：https://distill.pub/2016/deconv-checkerboard/
+不同类型的卷积介绍：https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
+
+dcgan理解：
+https://zhuanlan.zhihu.com/p/40126869
+https://blog.csdn.net/stdcoutzyx/article/details/53872121
+https://www.jiqizhixin.com/articles/2018-01-16-4
+https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html#introduction
+https://github.com/carpedm20/DCGAN-tensorflow/blob/master/model.py
