@@ -1,17 +1,13 @@
 ﻿一、强化学习
 1、书本：《introduction》
-2、论文
-二、GAN
+二、ctr
 1、论文
 三、auto-encoder
-1、论文
-四、ctr
 1、论文
 
 时间安排上，按照章节或论文交替
 
 知识点：
-1、gan收敛性证明
-2、esmm问题理解
-3、l1 norm在优化过程中的求解方法
-4、online leaning：RDA、FTRL
+1、candidate sampling: NCE - https://zhuanlan.zhihu.com/p/76568362
+2、l1 norm在优化过程中的求解方法
+3、online leaning：RDA、FTRL
