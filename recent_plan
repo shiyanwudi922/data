@@ -1,9 +1,11 @@
 ﻿一、早上：
-1、policy gradient相关算法
-2、dynamic knapshack论文+代码
+1、policy gradient相关算法概览：blog
+2、复习introduction课本
+3、A2C、A3C、DPG、DDPG、PPO算法paper
+3、dynamic knapshack论文+代码
 
 二、白天
-1、mapping_server超前赶
+1、mapping_server朝前赶
 2、autoFIS、DCN、DCN_V2论文+实现
 
 三、晚上
