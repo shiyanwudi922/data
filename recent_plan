@@ -1,29 +1,8 @@
-﻿一、早上：
-1、policy gradient相关算法概览：blog
-2、复习introduction课本
-3、A2C、A3C、DPG、DDPG、PPO算法paper
-3、dynamic knapshack论文+代码
-
-二、白天
-1、mapping_server朝前赶
-2、autoFIS、DCN、DCN_V2论文+实现
-
-三、晚上
-1、简历
-2、算法：基础理论+论文
-3、leetcode
-
-
-一、强化学习
-1、书本：《introduction》
-二、ctr
-1、论文:BSAT、DeepRetrieval
-三、auto-encoder
-1、论文
-四、前沿论文
-EfficientNet
-
-时间安排上，按照章节或论文交替
+﻿1、初始化方法
+2、优化方法
+3、A2C、A3C
+4、auto-encoder
+5、EfficientNet
 
 知识点：
 1、candidate sampling: NCE - https://zhuanlan.zhihu.com/p/76568362
