@@ -1,8 +1,9 @@
 ﻿1、初始化方法
 2、优化方法
-3、A2C、A3C
-4、auto-encoder
-5、EfficientNet
+3、激励函数
+4、A2C、A3C
+5、auto-encoder
+6、EfficientNet
 
 知识点：
 1、candidate sampling: NCE - https://zhuanlan.zhihu.com/p/76568362
